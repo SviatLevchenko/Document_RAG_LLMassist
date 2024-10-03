@@ -1,0 +1,13 @@
+fastapi  # for building the API
+uvicorn  # server to run FastAPI
+torch  # for PyTorch and model handling
+transformers  # Hugging Face models
+neo4j  # driver for Neo4j database
+llama-index  # for working with Llama Index
+llama-index-llms-huggingface  # Llama Index integration with Hugging Face
+llama-index-embeddings-huggingface  # using Hugging Face embeddings
+llama-index-embeddings-huggingface-api  # Hugging Face embeddings API
+llama-index-vector-stores-neo4jvector  # vector stores for Neo4j in Llama Index
+bitsandbytes  # for optimizing GPU operations with models
+FlagEmbedding  # for embedding reranking
+peft  # for fine-tuning models
